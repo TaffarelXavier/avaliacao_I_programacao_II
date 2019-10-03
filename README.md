@@ -37,8 +37,9 @@
 ### Encapsular é separar o programa em partes, deixando ele o mais separado possível. Isso com o intuito de proteger os dados manipulados dentro da classe.
 ---
 > ## __7)Em encapsulamento, os métodos setteres e getteres servem para quê?__
-- `Setters` - serve para definir, geralmente, é um método público que não retorna nada , isto é, do tipo **`void`**.
-- `Getters` - serve para obter algum valor que foi definidor previamente, geralmente, com o método set do mesmo atributo; geralmente, retorna o dado do mesmo tipo do atribuo..
+Para exemplo, vou definir o atributo ``double saldo``.
+- `Setters` - serve para definir *(o atributo saldo)*, geralmente, é um método público que não retorna nada , isto é, do tipo **`void`**.
+- `Getters` - serve para obter algum valor *(do atributo saldo)* que foi definidor previamente, geralmente, com o método set do mesmo atributo *(o atributo saldo)*; geralmente, retorna o dado do mesmo tipo do atribuo *(o atributo saldo)*.
 
 **Exemplo:**
 ```java
