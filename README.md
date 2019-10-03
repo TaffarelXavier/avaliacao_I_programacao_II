@@ -1,4 +1,4 @@
-# Estude Java - 1º Avaliação de Programação II
+# :zap: Estude Java - 1º Avaliação de Programação II
 
 > ## __1) Qual a definição de Programação Orietada a Objetos?__
  ### É uma maneira de programar que ajudar a resolver muitos problemas da programação funcional.
@@ -25,7 +25,7 @@
 # Modificadores de Acesso e Atributos de Classe
 
 > ## __4) Quais são o modificadores de acesso em java?__
-- `- private` - É o modificador de acesso mais restritivo que existe. Atributos e métodos declarados como __private__ são acessíveis somente pela classe que os declara
+- `- private` - É o modificador de acesso mais restritivo que existe. Atributos e métodos declarados como __private__ são acessíveis somente pela classe que os declara.
 - `+ public` - Atributos, métodos e classes declarados como __public__ são acessíveis por qualquer classe do Java.
-- `# protected` - Atributos e métodos declarados como __protected__ são acessíveis pela classe que os declara, suas subclasses em outros pacotes e outras classes dentro do mesmo pacote
+- `# protected` - Atributos e métodos declarados como __protected__ são acessíveis pela classe que os declara, suas subclasses em outros pacotes e outras classes dentro do mesmo pacote.
 
