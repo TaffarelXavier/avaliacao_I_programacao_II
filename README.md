@@ -30,4 +30,25 @@
 - `# protected` - Atributos e métodos declarados como __protected__ são acessíveis pela classe que os declara, suas subclasses em outros pacotes e outras classes dentro do mesmo pacote.
 ---
 > ## __5) O que é encapsulamento?__
- ### Encapsulamento é o processo de esconder todos os detalhes de um objeto que não contribuem para as suas características essenciais
+ ### Encapsulamento é o processo de esconder todos os detalhes de um objeto que não contribuem para as suas características essenciais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ __REFERÊNCIAS:__
+
+ 1. Encapsulamento - https://webserver2.tecgraf.puc-rio.br/~marcio/cursos/oo/encapsul.htm
+ 2. Encapsulamento e métodos Get e Set - https://pt.stackoverflow.com/questions/120249/encapsulamento-e-m%c3%a9todos-get-e-set
