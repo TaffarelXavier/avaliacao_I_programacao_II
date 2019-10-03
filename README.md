@@ -42,6 +42,7 @@
 
 **Exemplo:**
 ```java
+//Nota: Arquivo Conta.java
 class Conta {
     //Criação dos atributos:
     private double saldo;
@@ -57,7 +58,7 @@ class Conta {
     }
 
 }
-
+//Nota: Arquivo Teste.java
 class Teste{
 
     public static void main(String[] args){
