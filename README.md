@@ -28,4 +28,6 @@
 - `- private` - É o modificador de acesso mais restritivo que existe. Atributos e métodos declarados como __private__ são acessíveis somente pela classe que os declara.
 - `+ public` - Atributos, métodos e classes declarados como __public__ são acessíveis por qualquer classe do Java.
 - `# protected` - Atributos e métodos declarados como __protected__ são acessíveis pela classe que os declara, suas subclasses em outros pacotes e outras classes dentro do mesmo pacote.
-
+---
+> ## __5) O que é encapsulamento?__
+ ### Encapsulamento é o processo de esconder todos os detalhes de um objeto que não contribuem para as suas características essenciais
